@@ -1,0 +1,384 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-28 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-cbxwpslack-admin.php:88
+msgid "Custom Integrations"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:92
+msgid "Slack Out General Setting"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:115
+msgid "Number of items"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:116
+msgid "Number of items to show on search response."
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:135
+msgid "CBX WP Slack Setting"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:135
+msgid "Setting"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:202
+msgid "Post Search"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:221
+msgid "Core: When a post is published"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:231 admin/class-cbxwpslack-admin.php:260
+#: admin/class-cbxwpslack-admin.php:280
+msgid "General"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:243
+#, php-format
+msgid "Post \"<%s|%s>\" written by User <%s|%s>"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:250
+msgid "Core: When a post is trashed"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:264
+#, php-format
+msgid "Post \"<%s|%s>\" has been trashed."
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:270
+msgid "Core: New User Registration"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:285
+#, php-format
+msgid "New User \"<%s|%s>\" has registered"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:291
+msgid "Buddpress: New Status"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:301 admin/class-cbxwpslack-admin.php:321
+msgid "Communication"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:306
+#, php-format
+msgid "Buddypress New Status: %s -- by  \"<%s|%s>\""
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:312
+msgid "bbPress: New Topic"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:333
+#, php-format
+msgid "bbPRess New Topic: \"<%s|%s>\" -- by  %s"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:493
+#, php-format
+msgid "Test Message from <%s|CBXWPslack> Plugin."
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:494
+msgid "Test notification sent successfully!"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:495
+msgid "Please fill Service url, channel and username and save once, then test"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:538
+msgctxt "Post Type General Name"
+msgid "Slacks In"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:539
+msgctxt "Post Type Singular Name"
+msgid "Slack In"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:540
+msgid "CBX WPSlack"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:541
+msgid "Parent Slacks In:"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:542
+msgid "All Slacks In"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:543
+msgid "View Slack In"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:544
+msgid "Add New Slack In"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:545 admin/class-cbxwpslack-admin.php:582
+msgid "Add New"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:546
+msgid "Edit Slack In"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:547
+msgid "Update Slack In"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:548
+msgid "Search Slack In"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:549 admin/class-cbxwpslack-admin.php:586
+msgid "Not found"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:550 admin/class-cbxwpslack-admin.php:587
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:553
+msgid "cbxwpslack"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:554 admin/class-cbxwpslack-admin.php:591
+msgid "Slack Incoming"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:575
+msgctxt "Post Type General Name"
+msgid "Slacks Out"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:576
+msgctxt "Post Type Singular Name"
+msgid "Slack Out"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:578
+msgid "Parent Slacks Out:"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:579
+msgid "All Slacks Out"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:580
+msgid "View Slack Out"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:581
+msgid "Add New Slack Out"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:583
+msgid "Edit Slack Out"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:584
+msgid "Update Slack Out"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:585
+msgid "Search Slack Out"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:590
+msgid "cbxwpslackout"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:619
+msgid "General Events"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:655
+msgid "CBX Slack IN Settings"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:662
+msgid "CBX Slack Events"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:669
+msgid "CBX Slack Test"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:677
+msgid "CBX Slack Out Settings"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:684
+msgid "CBX Slack Out Events"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:691
+msgid "CBX Slack Out Post Types"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:714
+msgid "Built in post types"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:859 admin/class-cbxwpslack-admin.php:1032
+msgid "Slack Enable/Disable"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:866 admin/class-cbxwpslack-admin.php:1039
+msgid "No"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:871 admin/class-cbxwpslack-admin.php:1044
+msgid "Yes"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:878 admin/class-cbxwpslack-admin.php:1062
+#: admin/class-cbxwpslack-admin.php:1227
+msgid "Channel"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:888
+msgid "Trigger Word"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:898
+msgid "Team Domain"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:908
+msgid "Token"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:918
+msgid "Url"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:927
+msgid "Click to copy url"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:955
+msgid "Send Test Notification"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1052
+msgid "Service Url"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1072
+msgid "Username"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1082 admin/class-cbxwpslack-admin.php:1229
+msgid "Icon Emoji"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1190 admin/class-cbxwpslack-admin.php:1230
+msgid "Status"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1226
+msgid "Incoming Web-Hook"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1228
+msgid "User Name"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1300
+#, php-format
+msgid ""
+"Sorry, you can not create more than 5 slacks in free verion, <a "
+"target=\"_blank\" href=\"%s\">Grab Pro</a>"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1328
+#: admin/partials/admin-settings-display.php:32
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1348
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-cbxwpslack-admin.php:1352
+msgid "Get Pro"
+msgstr ""
+
+#: public/class-cbxwpslack-public.php:133
+msgid "Search keyword missing"
+msgstr ""
+
+#: public/class-cbxwpslack-public.php:248
+#, php-format
+msgid "Results found %s"
+msgstr ""
+
+#: admin/partials/admin-settings-display.php:22
+msgid "CBX WP Slack: Setting"
+msgstr ""
+
+#: admin/partials/sidebar.php:9
+msgid "Plugin Info"
+msgstr ""
+
+#: admin/partials/sidebar.php:22
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/partials/sidebar.php:29
+msgid "Codeboxr Other Plugins"
+msgstr ""
+
+#: admin/partials/sidebar.php:65
+msgid "Codeboxr.com Updates"
+msgstr ""
+
+#: admin/partials/sidebar.php:94
+msgid "Codeboxr on facebook"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX WP Slack"
+msgstr ""
+
+#. Description of the plugin
+msgid "Slack Integration for wordpress"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/cbx-wp-slack"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""
